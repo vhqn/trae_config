@@ -1,0 +1,19 @@
+{
+  "editor.fontSize": 18,
+  "workbench.settings.applyToAllProfiles": [],
+  "settingsSync.ignoredExtensions": [],
+  "AI.toolcall.v2.command.allowList": ["Set-Content", "Copy-Item"],
+  "files.autoSave": "onFocusChange",
+  "AI.toolcall.v2.ide.command.mode": "alwaysRun",
+  "redhat.telemetry.enabled": true,
+  "terminal.integrated.commandsToSkipShell": [
+    "workbench.action.chat.icube.open"
+  ],
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": {
+      "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "args": ["--login"]
+    }
+  }
+}
