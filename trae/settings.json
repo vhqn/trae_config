@@ -32,5 +32,8 @@
         "--login"
       ]
     }
-  }
+  },
+  "terminal.integrated.copyOnSelection": true,
+  "git.openRepositoryInParentFolders": "never",
+  "AI.toolcall.v2.fileOp.mode": "alwaysRun"
 }
