@@ -35,5 +35,6 @@
   },
   "terminal.integrated.copyOnSelection": true,
   "git.openRepositoryInParentFolders": "never",
-  "AI.toolcall.v2.fileOp.mode": "alwaysRun"
+  "AI.toolcall.v2.fileOp.mode": "alwaysRun",
+  "security.workspace.trust.untrustedFiles": "open"
 }

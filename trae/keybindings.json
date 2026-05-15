@@ -14,5 +14,9 @@
         "key": "ctrl+k",
         "command": "workbench.action.terminal.clear",
         "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+t",
+        "command": "workbench.action.quickOpen"
     }
 ]
